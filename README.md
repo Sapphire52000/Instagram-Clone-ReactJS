@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instagram-Clone-ReactJS ⚡
 
 <b>Instagram</b> is an American photo and video sharing social networking service owned by Facebook. This project is a Clone of the original Instagram UI. This Project provides some basic features, similar to the original application.
@@ -24,3 +25,20 @@
 
 - [Clever Programmer - Instagram Clone](https://www.youtube.com/watch?v=f7T48W0cwXM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=4)
 - [Image Uploader App using Firebase](https://www.youtube.com/watch?v=34f_SO7SWVA)
+=======
+# beb-05-Bito
+beb-05-Bito
+ 
+ 
+ npm install 명령어를 통해 모듈을 설치한다.
+
+    ```
+    npm install
+    ```
+
+ 프로젝트를 실행한다.
+
+    ```
+    npm start
+    ```
+>>>>>>> 4b15ac257a886438a1964a046c79feb0c9ba8d12
